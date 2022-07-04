@@ -3,7 +3,7 @@ from .Webhook import *
 from .tools import *
 __all__ = ['Color', 'Colors', 'DATA', 'DisWebhook', 'Embed', 'File', 'Message', 'WebhookError', 'getData']
 
-
+__version__ = "0.1.0"
 __author__ = 'Alawi Hussein Adnan Al Sayegh'
 __description__ = 'a easy tool for discord webhooks'
 __license__ = """
